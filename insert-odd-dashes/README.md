@@ -6,7 +6,7 @@ https://www.codewars.com/kata/insert-dashes/train/javascript
 ## Whiteboard Exercise 
 ![alt text](images/insert-odd-dashes.JPG "picture of white boarding exercise for: insert dashes kata")
 
-Today, I partnered with Erik for the white boarding exercise. 
+Today, I partnered with Erik and Mark for the white boarding exercise. 
 
 ### Process Overview
 
