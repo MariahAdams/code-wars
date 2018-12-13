@@ -13,3 +13,12 @@ function array_diff(a, b) {
   if(!a.length) return [];
   return c = a.filter(i => !b.includes(i));
 }
+
+/* REGEX SORCERY */
+function createPhoneNumber(numbers){
+  return numbers.join('').replace(/(\d{3})(\d{3})(\d{4})/,'($1) $2-$3');
+}
+
+function createPhoneNumber(numbers){
+  return numbers.join('').replace(/(...)(...)(.*)/, '($1) $2-$3');
+}
